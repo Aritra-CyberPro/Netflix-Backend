@@ -90,4 +90,4 @@ You can also export the [postman api collection](https://github.com/Aritra-Monda
 
 ## Author
 
-- [@Mr-Atanu-Roy](https://www.github.com/Aritra-Mondal-ICS)
+- [@Aritra-Mondal-ICS](https://www.github.com/Aritra-Mondal-ICS)
