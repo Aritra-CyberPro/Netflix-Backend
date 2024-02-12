@@ -34,11 +34,9 @@ Note : You have to create app password for the email you are using in `EMAIL_HOS
 Create a folder and open terminal and install this project by
 command 
 ```bash
-git clone https://github.com/Mr-Atanu-Roy/Netflix-Backend
-
+https://github.com/Aritra-Mondal-ICS/Netflix-Backend.git
 ```
-or simply download this project from https://github.com/Mr-Atanu-Roy/Netflix-Backend
-
+or simply download this project from https://github.com/Aritra-Mondal-ICS/Netflix-Backend.git
 In project directory Create a virtual environment(say env)
 
 ```bash
@@ -88,8 +86,8 @@ To read the api documentaion of this API visit
 `http://127.0.0.1:8000/netflix/api/redoc/`
 
 ## Postman API Collection
-You can also export the [postman api collection](https://github.com/Mr-Atanu-Roy/Netflix-Backend/blob/master/Netflix%20API.postman_collection.json) and import in postman.
+You can also export the [postman api collection](https://github.com/Aritra-Mondal-ICS/Netflix-Backend/blob/main/Netflix%20API.postman_collection.json) and import in postman.
 
 ## Author
 
-- [@Mr-Atanu-Roy](https://www.github.com/Mr-Atanu-Roy)
+- [@Mr-Atanu-Roy](https://www.github.com/Aritra-Mondal-ICS)
