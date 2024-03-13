@@ -36,7 +36,7 @@ command
 ```bash
 https://github.com/Aritra-Mondal-ICS/Netflix-Backend.git
 ```
-or simply download this project from https://github.com/Aritra-Mondal-ICS/Netflix-Backend.git
+or simply download this project from https://github.com/Aritra-Mondal-ICS/Netflix-Backend
 In project directory Create a virtual environment(say env)
 
 ```bash
