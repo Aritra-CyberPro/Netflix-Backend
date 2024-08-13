@@ -34,9 +34,8 @@ Note : You have to create app password for the email you are using in `EMAIL_HOS
 Create a folder and open terminal and install this project by
 command 
 ```bash
-https://github.com/Aritra-CyberPro/Netflix-Backend.git
+git clone https://github.com/Aritra-CyberPro/Netflix-Backend.git
 ```
-or simply download this project from https://github.com/Aritra-Mondal-ICS/Netflix-Backend
 
 In project directory Create a virtual environment(say env)
 
